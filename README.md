@@ -41,3 +41,30 @@ The project involves creating visualizations using Power BI to address the follo
 - **Power BI:** For creating dynamic dashboards and visualizations.
 - **Data Analytics:** To preprocess and analyze the dataset.
 - **Visualization Techniques:** To represent data effectively using various charts and graphs.
+
+  <br />
+    <br />
+     <img src="https://imgur.com/bGENX4x.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+     <img src="https://imgur.com/rp1069y.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+      <img src="https://imgur.com/fLM3qXK.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+      <img src="https://imgur.com/QnGpBUl.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+     <img src="https://imgur.com/NQVartm.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+     <img src="https://imgur.com/LIj7cf3.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+     <img src="https://imgur.com/iiczNtb.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
+     <img src="https://imgur.com/l20BpNB.png" height="80%" width="80%" alt="Create Azure Storage Account"/>
+     <br />
+     <br />
